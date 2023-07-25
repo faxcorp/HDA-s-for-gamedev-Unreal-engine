@@ -4,5 +4,7 @@ Im uploading my HDAs here so I don't loose them and everyone can use. I mainly u
 Im not gonna do a documentation but if you wanna know how to use something let me know
 
 Weighted sliders:
-https://github.com/faxcorp/FreeHDAs/assets/37246339/3e491ab5-ec1b-4d06-b658-e59c025a6ac6
+https://www.youtube.com/watch?v=g7nUxWxqsdU
+
+[<img src="https://i.ytimg.com/vi/g7nUxWxqsdU/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=g7nUxWxqsdU "Now in Android: 55")
 
