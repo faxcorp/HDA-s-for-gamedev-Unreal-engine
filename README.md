@@ -8,7 +8,7 @@ Some worth mentioning:
 * Weighted sliders:
 https://github.com/faxcorp/FreeHDAs/assets/37246339/3e491ab5-ec1b-4d06-b658-e59c025a6ac6
 
-* Unreal name connected pieces set attributes - configures objects for export using Houdini to Unreal, names input optionally by piece, configures splines, material
+* Unreal name connected pieces set attributes - configures objects for export using Houdini to Unreal, names input optionally by piece, configures splines, material, baked actor class
 ![image](https://github.com/faxcorp/HDA-s-for-gamedev-Unreal-engine/assets/37246339/6e7f6b39-d96f-4904-8ce5-9f2df9af3e76)
 
 * Align UV - can align UV's by pieces or not to UV space center/top etc. scale to fit horizontal/vertical, uniform and non-uniform scale
